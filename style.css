@@ -3,21 +3,23 @@ p
 
 
     
-color:rgb(48, 5, 28);
-font-size:large
+color:rgb(0, 0, 0);
+font-size:medium
 font weight:large
 
 }
 body
 {
+    margin: auto;
+   max-width:   700px;
     font-family: "Shadows Into Light", cursive;
-background-color: rgb(209, 140, 188);
+background-color: rgb(209, 146, 209);
 }
 img
 {
-width:300px;
+width:100px;
 border:10px;
-border-color:rgb(41, 1, 26);
+border-color:rgb(235, 23, 150);
 border-style: dashed;
 
 
